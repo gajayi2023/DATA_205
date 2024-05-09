@@ -9,8 +9,7 @@ editor_options:
 **Vision Zero: Automating Validation and Relocation of Crash Location
 Data**
 
-This repository documents a capstone project for Montgomery County
-Community College's Data Science Certificate Program. This project was
+This repository documents a capstone project for Montgomery College's Data Science Certificate Program. This project was
 in collaboration with Montgomery County's Vision Zero Initiative and the
 aim of the project was to review car crash locations from the Automated
 Crash Reporting System (ACRS) used by the county and suggest better
